@@ -1,7 +1,7 @@
 markdown
 # FOL Theorem Prover using Resolution
 
-## 📘 Overview
+##  Overview
 
 This project implements a **First-Order Logic (FOL) theorem prover** using the **Resolution** inference rule. It reads a knowledge base (KB) written in **Conjunctive Normal Form (CNF)** and determines whether the KB is satisfiable.
 
@@ -18,7 +18,7 @@ This project implements a **First-Order Logic (FOL) theorem prover** using the *
 
 ---
 
-## 📥 Input Format
+## Input Format
 
 The input is a `.cnf` file with the following structure:
 
@@ -65,7 +65,7 @@ Represents:
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 ### Run the theorem prover:
 ```bash
@@ -84,18 +84,18 @@ yes
 
 ---
 
-## ✅ Features
+##  Features
 
-- ✔️ Supports propositional and first-order logic
-- ✔️ Constants and variables
-- ✔️ Functions (non-nested)
-- ✔️ Universal quantifiers
-- ✔️ Occurs check to ensure sound unification
-- ✔️ Efficient clause comparison and duplication avoidance
+- Supports propositional and first-order logic
+-  Constants and variables
+-  Functions (non-nested)
+-  Universal quantifiers
+-  Occurs check to ensure sound unification
+-  Efficient clause comparison and duplication avoidance
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```
 lab2.py          # The main resolution-based theorem prover
@@ -105,7 +105,7 @@ README.md        # Project documentation
 
 ---
 
-## 📚 References
+## References
 
 - **Artificial Intelligence: A Modern Approach (3rd Edition)**  
   By Stuart Russell & Peter Norvig  
@@ -113,7 +113,7 @@ README.md        # Project documentation
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Jatin Jain**  
 Rochester Institute of Technology  
@@ -121,9 +121,9 @@ B.S. Computer Science | M.S. Cybersecurity
 
 ---
 
-## 🔖 License
+## License
 
 This project is for academic and educational use. Feel free to use and modify it with proper attribution.
 
-```
+
 
