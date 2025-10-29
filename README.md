@@ -1,4 +1,4 @@
-```markdown
+markdown
 # FOL Theorem Prover using Resolution
 
 ## 📘 Overview
